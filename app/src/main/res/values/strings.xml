@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Just Java</string>
+    <string name="main_order_label">Order Summary</string>
+    <string name="main_toppings_label">Toppings</string>
+    <string name="main_quantity_label">Quantity</string>
+    <string name="main_order_button_label">Order</string>
+    <string name="main_whipped_check_label">Whipped Cream</string>
+    <string name="main_chocolate_check_label">Chocolate</string>
+    <string name="main_name_hint">Your Name</string>
 </resources>
